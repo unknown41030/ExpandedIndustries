@@ -400,7 +400,7 @@ public class EIBlocks {
             size = 4;
             tier = 5;
             drillTime = 46.875f;
-            liquidBoostIntensity = 0;
+            liquidBoostIntensity = 1;
             rotateSpeed = 6f;
             itemCapacity = 20;
             warmupSpeed = 0.01f;
